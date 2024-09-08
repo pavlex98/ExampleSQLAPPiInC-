@@ -1,0 +1,10 @@
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe.config
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.pdb
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.LoginForm.resources
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.Properties.Resources.resources
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.GenerateResource.cache
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.exe
+C:\Users\pavlo\source\repos\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.pdb
